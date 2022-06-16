@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Con đường đến học việc học SE"
+title:  "Nguồn gốc việc học SE"
 date:   2022-06-15 10:43:00 +0700
 categories: blog
 layout: post
